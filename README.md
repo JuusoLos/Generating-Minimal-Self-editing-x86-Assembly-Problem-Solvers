@@ -1,6 +1,6 @@
 ## Generating minimal self-editing x86 assembly problem solvers
-## Juuso Lösönen
-## Code and dataset posted on this public Github repository on 18.04.2026.
+Juuso Lösönen
+Code and dataset posted on this public Github repository on 18.04.2026.
 
 
 A minimal implementation of an x86 assembly program that edits itself to
